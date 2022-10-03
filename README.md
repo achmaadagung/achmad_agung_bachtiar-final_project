@@ -1,4 +1,5 @@
 # HTML & CSS - Final Project
+This project attempts to create a web page using HTML and Tailwind CSS
 ## Goals
 * Membuat portofolio dalam bentuk HTML dan CSS
 * Mampu membuat *website* statis dengan HTML dan CSS
